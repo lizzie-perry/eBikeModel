@@ -1,6 +1,9 @@
 # eBikeModel
 Data on EBikes - to predict duration of trips
 
+
+Notebook with solution can be found in duration_model.ipynb
+
 **Approach**
 
 Step 1: Prepare the dataset
